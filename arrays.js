@@ -9,5 +9,5 @@ function destructivelyAddElementToBeginningOfArray(chocolateBars, candyString) {
   return chocolateBars
 }
 function accessElementInArray(array, index){
-  return array[index]
+  return array[index];
 }
