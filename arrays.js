@@ -11,3 +11,4 @@ function destructivelyAddElementToBeginningOfArray(chocolateBars, candyString) {
 function accessElementInArray(array, index){
   return array[index];
 }
+function destructivelyRemoveElementFromBeginningOfArray ()
