@@ -8,4 +8,4 @@ function destructivelyAddElementToBeginningOfArray(chocolateBars, candyString) {
   chocolateBars.unshift(candyString)
   return chocolateBars
 }
-function accessElementInArray
+function accessElementInArray(array, index)
